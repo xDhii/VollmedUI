@@ -1,0 +1,22 @@
+{
+  "name": "VollmedUI",
+  "version": "0.1.0",
+  "summary": "A short description of VollmedUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Adriano Valumin/VollmedUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Adriano Valumin": "adriano.valumin@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/Adriano Valumin/VollmedUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "VollmedUI/Classes/**/*"
+}

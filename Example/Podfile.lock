@@ -1,0 +1,16 @@
+PODS:
+  - VollmedUI (0.1.0)
+
+DEPENDENCIES:
+  - VollmedUI (from `../`)
+
+EXTERNAL SOURCES:
+  VollmedUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VollmedUI: 7c04ab2d81a8abc6b2cc2bb4cacd39818cd90691
+
+PODFILE CHECKSUM: bc2cd32efcd01186dc6c8d51f474a088fdfa3103
+
+COCOAPODS: 1.16.2

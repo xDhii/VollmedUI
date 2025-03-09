@@ -1,0 +1,201 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift",
+      "line": 10,
+      "symbol": "VollmedTooltipView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift",
+      "line": 26,
+      "symbol": "VollmedTooltipView.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift",
+      "line": 30,
+      "symbol": "VollmedTooltipView.init(title:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 10,
+      "symbol": "VollmedButtonStylesUI",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 28,
+      "symbol": "ConfirmPrimaryButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 52,
+      "symbol": "ConfirmPrimaryButtonStyle.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 55,
+      "symbol": "CancelButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 79,
+      "symbol": "CancelButtonStyle.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 10,
+      "symbol": "VollmedTextStylesUI",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 11,
+      "symbol": "VollmedTextStylesUI.boldColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 50,
+      "symbol": "TitleStyleLRegular",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 67,
+      "symbol": "TitleStyleLBold",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 84,
+      "symbol": "TitleStyleMdRegular",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 101,
+      "symbol": "TitleStyleMdBold",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 118,
+      "symbol": "TitleStyleSRegular",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 135,
+      "symbol": "TitleStyleSBold",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 152,
+      "symbol": "BodyStyleRegular",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 169,
+      "symbol": "BodyStyleBold",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 186,
+      "symbol": "CaptionStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 204,
+      "symbol": "View.titleStyleLRegular()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 208,
+      "symbol": "View.titleStyleLBold()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 212,
+      "symbol": "View.titleStyleMdRegular()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 216,
+      "symbol": "View.titleStyleMdBold()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 220,
+      "symbol": "View.titleStyleSRegular()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 224,
+      "symbol": "View.titleStyleSBold()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 228,
+      "symbol": "View.bodyStyleRegular()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 232,
+      "symbol": "View.bodyStyleBold()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift",
+      "line": 236,
+      "symbol": "View.captionStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/adrianovalumin/Documents/iOS Developer/Alura/SwiftUI/VollmedUI"
+}
